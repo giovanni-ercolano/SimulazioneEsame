@@ -41,7 +41,7 @@ Il comando `more_expensive` restituisce l'auto più costosa presente nell'elenco
 Esempio di utilizzo:
 
 ```
-{"command":"more_expensive"}
+more_expensive
 ```
 
 ### all
@@ -51,7 +51,7 @@ Il comando `all` restituisce l'elenco completo di auto presente nell'elenco.
 Esempio di utilizzo:
 
 ```
-{"command":"all"}
+all
 ```
 
 ### all_sorted
@@ -61,7 +61,7 @@ Il comando `all_sorted` restituisce l'elenco completo di auto ordinato per prezz
 Esempio di utilizzo:
 
 ```
-{"command":"all_sorted"}
+all_sorted
 ```
 
 ## Come interrompere il server
